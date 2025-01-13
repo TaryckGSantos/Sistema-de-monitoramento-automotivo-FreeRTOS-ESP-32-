@@ -1,4 +1,4 @@
-# Sistema-de-monitoramento-automotivo-FreeRTOS-ESP-32-
+# Sistema de monitoramento automotivo utilizando o FreeRTOS com uma ESP-32
 
 Implementação de um **sistema de monitoramento e controle automotivo** utilizando o **FreeRTOS** na **ESP32**, desenvolvido para atender aos requisitos de uma fabricante de automóveis. O objetivo é monitorar e controlar três subsistemas do veículo (motor, frenagem e equipamentos de suporte à vida), garantindo respostas em tempo real a eventos críticos e apresentando as informações em um display integrado.
 
