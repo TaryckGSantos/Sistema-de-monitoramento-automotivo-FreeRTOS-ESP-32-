@@ -25,7 +25,7 @@ O projeto está dividido em três versões, cada uma representando uma abordagem
 
 ## Requisitos Técnicos
 - **Hardware:** Placa ESP32.
-- **Software:** FreeRTOS com SDK ESP-IDF.
+- **Software:** FreeRTOS com SDK ESP-IDF
 - **Conexão de Sensores e Atuadores:** 
   - 5 sensores e 5 atuadores distribuídos nos subsistemas.
   - Comunicação via barramento com velocidade de 1 Mbps e latência de 10 µs.
